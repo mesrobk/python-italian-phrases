@@ -1,0 +1,2 @@
+# python-italian-phrases
+🇮🇹🍝🍕🤌
