@@ -14,7 +14,7 @@ https://developers.google.com/edu/python/set-up
 
 ### Open main.py and follow instructions in the comments
 
-### Once completed run:
+### Once completed run in the terminal:
 ```
-$ python3 main.py phrase
+$ python3 main.py
 ```
