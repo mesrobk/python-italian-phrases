@@ -10,7 +10,7 @@ https://developers.google.com/edu/python/set-up
 ## Step 3: Master Italian!
 
 ### Download this code as a zip file and extract locally
-<img width="965" alt="Screenshot 2023-08-31 at 7 16 42 PM" src="https://github.com/mesrobk/python-italian-phrases/assets/1287134/cfa1a559-88f2-4d37-952a-22a053af3d2b">
+<img width="980" alt="Screenshot 2023-08-31 at 9 46 30 PM" src="https://github.com/mesrobk/python-italian-phrases/assets/1287134/d467188f-676d-45c3-857b-7fceebc03de4">
 
 ### Open main.py and follow instructions in the comments
 
