@@ -8,17 +8,17 @@ count = 0
 
 def initialze_dictionary():
     pass
-    # read from csv file 'basic-italian-phrases.csv' and add each row to the array phrases
+    # todo: read from csv file 'basic-italian-phrases.csv' and add each row to the array phrases
 
 
 def get_random_italian_phrase():
     pass
-    # generate random index and print the row from the phrases array
+    # todo: generate random index and print the row from the phrases array
 
 
 def next_phrase():
     global count
-    # Print each row from the phrases array and increment count index
+    # todo: Print each row from the phrases array and increment count index
 
 
 def main():
