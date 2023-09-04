@@ -16,5 +16,6 @@ https://developers.google.com/edu/python/set-up
 
 ### Once completed run in the terminal:
 ```
+$ pip3 install -r requirements.txt
 $ python3 main.py
 ```
