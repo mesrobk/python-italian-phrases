@@ -15,12 +15,14 @@ def initialze_dictionary():
 
 def get_random_italian_phrase():
     phrase_index = random.randint(0, len(phrases) - 1)
-    print(phrases[phrase_index])
+    print('\nItalian: {0}\nEnglish: {1}\n'.format(
+        phrases[phrase_index][0], phrases[phrase_index][1]))
 
 
 def next_phrase():
     global count
-    print(phrases[count])
+    print('\nItalian: {0}\nEnglish: {1}\n'.format(
+        phrases[count][0], phrases[count][1]))
     if count >= len(phrases) - 1:
         count = 0
     else:
@@ -32,7 +34,7 @@ def main():
     initialze_dictionary()
     while True:
         text = prompt(
-            'Would you like random phrases or to follow a list? (random/list) ')
+            'Would you like random phrases or follow a list? (random/list) ')
         if text == "random":
             get_random_italian_phrase()
             while True:
