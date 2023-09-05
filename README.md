@@ -6,6 +6,7 @@ https://www.codecademy.com/learn/learn-python-3
 
 ## Step 2: Install Python
 https://developers.google.com/edu/python/set-up
+https://code.visualstudio.com/download
 
 ## Step 3: Master Italian!
 
